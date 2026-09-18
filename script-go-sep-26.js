@@ -1,4 +1,4 @@
-// ===== GLOBAL VARIABLES =====
+// ==== GLOBAL VARIABLES ====
 let currentStep = 1;
 let completedSteps = [];
 let selectedDeviceTypes = [];
